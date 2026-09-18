@@ -1,0 +1,10 @@
+- What is riverquery (TanStack Query-like for Flutter + Riverpod)
+- Install (riverpod: ^3.0.0 + riverquery)
+- API overview:
+- createQuery / createQueryFamily — cached async queries
+- createQueryEditable / createQueryEditableFamily — queries with optimistic updates
+- createMutation / createMutationWithParam — side-effect mutations with state tracking
+- createInfinityQuery — paginated infinite scroll queries
+- createStore / createStoreFamily — sync state containers
+- staleTime / persist concepts
+- Quick example for each
